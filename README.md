@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://sunieltech.onrender.com/)
+
 
 <h1 align="center">Hi 👋, I'm Sunil Sharma</h1>
 <h3 align="center">Full Stack Developer - Crafting Seamless Web Solutions Across Frontend and Backend Technologies.</h3>
