@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React Native**
   
-- 🎉 All of my projects are available at [[https://sunieltech.onrender.com](https://6527a96d0138950da8bb1d07--musical-pixie-01dd29.netlify.app/)/]([https://sunieltech.onrender.com](https://6527a96d0138950da8bb1d07--musical-pixie-01dd29.netlify.app/)/)
+- 🎉 All of my projects are available at  [https://6527a96d0138950da8bb1d07--musical-pixie-01dd29.netlify.app/]
 
 - 👨‍💻 All of my projects are available at [https://sunieltech.onrender.com/](https://sunieltech.onrender.com/)
 
