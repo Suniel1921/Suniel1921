@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **MERN STACK PROJECT**
+- 🔭 I’m currently working at **AAVATECH**
 
 - 🌱 I’m currently learning **React Native**
 
@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [https://harmorooms-com.onrender.com/](https://harmorooms-com.onrender.com/)
 
-- 💬 Ask me about **MERN, ETHICAL HACKING**
+- 💬 Ask me about **MERN STACK, ETHICAL HACKING**
 
 - 📫 How to reach me **anielthakur1921@gmail.com**
 
