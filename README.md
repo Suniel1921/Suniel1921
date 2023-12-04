@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working at **AAVATECH**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Next js 14**
   
 - 🎉 All of my projects are available at  [https://652a4ab4dafbc14ba5c11f4e--fantastic-beignet-aa1bd6.netlify.app/]
 
