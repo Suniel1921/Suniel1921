@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Next js 14**
   
-- 🎉 All of my projects are available at  [https://652a4ab4dafbc14ba5c11f4e--fantastic-beignet-aa1bd6.netlify.app/]
+- 🎉 All of my projects are available at  [https://www.anilthakurbarahi.com.np/]
 
 - 👨‍💻 All of my projects are available at [https://sunieltech.onrender.com/](https://sunieltech.onrender.com/)
 
