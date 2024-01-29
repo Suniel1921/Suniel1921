@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working at **AAVATECH**
 
-- 🌱 I’m currently learning **Next js 14**
+- 🌱 I’m currently learning **React Native**
   
 - 🎉 All of my projects are available at  [https://www.anilthakurbarahi.com.np/]
 
