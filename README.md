@@ -10,19 +10,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working at **AAVATECH**
+- 🔭 I’m currently working at **Nepal Tech**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Cyber Security**
   
 - 🎉 All of my projects are available at  [https://www.anilthakurbarahi.com.np/]
-
-- 👨‍💻 All of my projects are available at [https://sunieltech.onrender.com/](https://sunieltech.onrender.com/)
 
 - 📝 I regularly write articles on [https://harmorooms-com.onrender.com/](https://harmorooms-com.onrender.com/)
 
 - 💬 Ask me about **MERN STACK, ETHICAL HACKING**
 
-- 📫 How to reach me **anielthakur1921@gmail.com**
+- 📫 How to reach me **sunielsharma1921@gmail.com**
 
 - ⚡ Fun fact **Why don't programmers like nature? It has too many bugs! 🐛😄**
 
