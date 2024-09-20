@@ -16,7 +16,7 @@
   
 - 🎉 All of my projects are available at  [https://www.anilthakurbarahi.com.np/]
 
-- 📝 I regularly write articles on [https://harmorooms-com.onrender.com/](https://harmorooms-com.onrender.com/)
+- 📝 I regularly write articles on [https://harmorooms.com)
 
 - 💬 Ask me about **MERN STACK, ETHICAL HACKING**
 
