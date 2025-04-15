@@ -25,7 +25,6 @@
 ### 🛠️ Skills & Technologies
 <p align="center">
   <a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/></a>
-  <a href="https://angular.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/></a>
   <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40"/></a>
   <a href="https://azure.microsoft.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/></a>
   <a href="https://babeljs.io/"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" width="40" height="40"/></a>
