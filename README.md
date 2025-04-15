@@ -8,7 +8,6 @@
 <p align="center">
   <a href="https://www.anilthakurbarahi.com.np/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/></a>
   <a href="mailto:sunielsharma1921@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://harmorooms.com"><img src="https://img.shields.io/badge/Blog-%2312100E.svg?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog"/></a>
   <img src="https://komarev.com/ghpvc/?username=suniel1921&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
