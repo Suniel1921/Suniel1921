@@ -17,7 +17,7 @@
 - 🏢 Currently working at **Nepal Tech** as a Full Stack Developer
 - 🌱 Learning **Cyber Security** to enhance my Ethical Hacking skills
 - 💻 Specializing in **MERN Stack** and building seamless web solutions
-- ✍️ Sharing insights on my blog at [harmorooms.com](https://harmorooms.com)
+- ✍️ Sharing insights on my blog at [harmorooms.com](https://ezrms.org)
 - ⚡ Fun Fact: *Why don't programmers like nature? Too many bugs! 🐛*
 
 ---
