@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | MERN Enthusiast | Ethical Hacking Explorer</h3>
 
 <p align="center">
-  <img src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp" alt="coding animation" width="500"/>
+  <img src="[https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZyaGJ1aHZlNndyZmFiNnhseDJnOXd6ZG5haDJmZmx4ZzAwbHphNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JTTAjM197sku8MgrRa/giphy.gif)" alt="coding animation" width="500"/>
 </p>
 
 <p align="center">
